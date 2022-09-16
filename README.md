@@ -17,8 +17,8 @@
 </div>
 </div>
 ### :man_technologist: About Me :
-👉I am Pramod Tejra.<br>
-😎Age 20<br>
+👉I am Shubham Singh.<br>
+😎Age 19<br>
 👨‍🎓Sophomore at IIIT Bhopal.<br>
 📧pramodtejrapiku01@gmail.com<br>
 👨‍💻Familiar with C||C++ learning python and web-development.<br>
@@ -31,6 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" title="C" alt="C" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
