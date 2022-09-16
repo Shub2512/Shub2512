@@ -20,7 +20,7 @@
 👉I am Shubham Singh.<br>
 😎Age 19<br>
 👨‍🎓Sophomore at IIIT Bhopal.<br>
-📧pramodtejrapiku01@gmail.com<br>
+📧shubhamiiitb@gmail.com<br>
 👨‍💻Familiar with C||C++ learning python and web-development.<br>
 :mailbox:Linked-In- [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pramod-tejra-45b9b9237/)
 
@@ -37,7 +37,7 @@
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;
    
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PramodTejra&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shubham singh&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodTejra&theme=tokyonight)<br>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramodTejra)](https://github.com/anuraghazra/github-readme-stats)<br>
